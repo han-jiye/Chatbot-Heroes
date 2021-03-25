@@ -1,8 +1,9 @@
 # Chatbot-Heroes
-Multi-Chatbot
+
+두 챗봇과의 단체 채팅
 
 
-## Chatbot Heroes
+# Chatbot Heroes
 
 + Data_Preprocessing
   + Styling_tone.py : 챗봇 말투 수정
